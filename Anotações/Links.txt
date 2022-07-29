@@ -1,0 +1,3 @@
+Link de acesso para sintaxes basicas de Markdown: markdowngride.org/basic-syntax/
+
+Link para fazer download do Git: https://git-scm.com/downloads
